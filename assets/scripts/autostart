@@ -1,0 +1,9 @@
+conky &
+tint2 &
+xscreensaver &
+nitrogen --restore &
+plank &
+guake &
+pasystray &
+cerebro &
+python3 ~/bin/connect_screen.py
